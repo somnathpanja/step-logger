@@ -1,5 +1,5 @@
 {
-  "name": "node-step-logger",
+  "name": "step-logger",
   "version": "1.0.0",
   "description": "Logical debugging in node.js",
   "main": "index.js",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/somnathpanja/step-logger/issues"
   },
-  "homepage": "https://github.com/somnathpanja/step-logger#readme"
+  "homepage": "https://github.com/somnathpanja/step-logger#readme",
+  "dependencies": {
+    "jscollection": "^1.0.8"
+  }
 }
